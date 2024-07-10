@@ -4,6 +4,8 @@ import com.example.user_service.dto.UserDto;
 import com.example.user_service.model.User;
 
 public class UserMapper {
+    private UserMapper() {
+    }
     
     public static User mapToUser(UserDto userDto){
         return new User(
