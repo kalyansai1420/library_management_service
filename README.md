@@ -6,7 +6,7 @@ This project demonstrates a microservices-based architecture for a Library Manag
 
 
 
-![Architecture Diagram](architecture_diagram.png)
+![Architecture Diagram](architecture.png)
 
 ### Service Interactions:
 
